@@ -30,7 +30,7 @@
 ## Using App
  # First task EMP table
  ![employees table](https://github.com/alihassan161820/GIG-Task/blob/master/public/imgs/employeestable.png)
- - task paths in project: 
+ - Task paths in project: 
  
     GIG-Task-master/app/Http/Employees/EmployeesRepository.php ( Task queries )
     

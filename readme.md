@@ -36,7 +36,7 @@
     
     GIG-Task-master/app/Http/Controllers/EmployeesController.php 
     
- - You Can get result dirctly using endpoints 
+ - You can get result dirctly using endpoints 
 
     > Assuming that there is a relation between mgr_id and emp_id as 
     > there is employees are managers for other employees

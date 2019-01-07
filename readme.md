@@ -17,7 +17,7 @@
 * `cd GIG-Task-master`
 * `composer install`
 * `rename .env.example file to .env`
-* `set your database configeration`
+* `set your database configeration in .env file`
 
 ![database configerations](https://github.com/alihassan161820/GIG-Task/blob/master/public/imgs/configeration.png)
 
